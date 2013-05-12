@@ -1,0 +1,16 @@
+To find the value of h1-h6 use the following statement:
+
+while (h1) skip;
+
+If h1 is true it will give an error message:
+
+*** Run 1: Initializing h[1-6] with secrets...
+Executing...
+Runtime error: Maximum execution time exceeded (10000 steps).
+
+If it's false there will be no error message: 
+
+*** Run 1: Initializing h[1-6] with secrets...
+Executing...
+Execution finished in 0 steps
+Final (low) memory: 

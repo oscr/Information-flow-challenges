@@ -1,0 +1,55 @@
+
+try { 
+  l1 = true; 
+  if(h1) 
+    throw; 
+  else 
+    skip; 
+  l1 = false;
+} catch { skip; }
+  
+try { 
+  l2 = true; 
+  if(h2) 
+    throw; 
+  else 
+    skip; 
+  l2 = false;
+} catch { skip; }
+  
+try { 
+  l3 = true; 
+  if(h3) 
+    throw; 
+  else 
+    skip; 
+  l3 = false;
+} catch { skip; }
+  
+try { 
+  l4 = true; 
+  if(h4) 
+    throw; 
+  else 
+    skip; 
+  l4 = false;
+} catch { skip; }
+  
+try { 
+  l5 = true; 
+  if(h5) 
+    throw; 
+  else 
+    skip; 
+  l5 = false;
+} catch { skip; }
+  
+try { 
+  l6 = true; 
+  if(h6) 
+    throw; 
+  else 
+    skip; 
+  l6 = false;
+} catch { skip; }
+  

@@ -1,0 +1,15 @@
+l1 = declassify(h1);
+h1 = h2;
+l2 = declassify(h1);
+
+h1 = h3;
+l3 = declassify(h1);
+
+h1 = h4;
+l4 = declassify(h1);
+
+h1 = h5;
+l5 = declassify(h1);
+
+h1 = h6;
+l6 = declassify(h1);

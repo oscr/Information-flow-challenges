@@ -1,0 +1,8 @@
+declare proc tr(in x : low, out y : low) y = true;
+declare proc fa(in x : low, out y : low) y = false;
+if (h1) tr(true,l1); else fa(false,l1); {}
+if (h2) tr(true,l2); else fa(false,l2); {}
+if (h3) tr(true,l3); else fa(false,l3); {}
+if (h4) tr(true,l4); else fa(false,l4); {}
+if (h5) tr(true,l5); else fa(false,l5); {}
+if (h6) tr(true,l6); else fa(false,l6); {}

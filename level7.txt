@@ -1,0 +1,6 @@
+let (x1 = h1) in { l1 = x1; }
+let (x1 = h2) in { l2 = x1; }
+let (x1 = h3) in { l3 = x1; }
+let (x1 = h4) in { l4 = x1; }
+let (x1 = h5) in { l5 = x1; }
+let (x1 = h6) in { l6 = x1; }

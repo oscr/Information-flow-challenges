@@ -1,0 +1,20 @@
+declare ref hx2 : low; 
+{
+ref hx2 = h1;
+l1 = deref(hx2);
+
+ref hx2 = h2;
+l2 = deref(hx2);
+
+ref hx2 = h2;
+l3 = deref(hx2);
+
+ref hx2 = h4;
+l4 = deref(hx2);
+
+ref hx2 = h5;
+l5 = deref(hx2);
+
+ref hx2 = h6;
+l6 = deref(hx2);
+}

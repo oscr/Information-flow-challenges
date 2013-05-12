@@ -1,0 +1,31 @@
+declare array lx1 : low;  {  
+lx1[true] = false;
+lx1[false] = false;
+lx1[h1] = true;
+l1 = lx1[true];
+  
+lx1[true] = false;
+lx1[false] = false;
+lx1[h2] = true;
+l2 = lx1[true];  
+  
+lx1[true] = false;
+lx1[false] = false;
+lx1[h3] = true;
+l3 = lx1[true];
+  
+lx1[true] = false;
+lx1[false] = false;
+lx1[h4] = true;
+l4 = lx1[true];
+  
+lx1[true] = false;
+lx1[false] = false;
+lx1[h5] = true;
+l5 = lx1[true];
+
+lx1[true] = false;
+lx1[false] = false;
+lx1[h6] = true;
+l6 = lx1[true];
+}

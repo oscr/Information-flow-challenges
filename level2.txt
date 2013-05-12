@@ -1,0 +1,30 @@
+l1 = false;
+l2 = false;
+l3 = false;
+l4 = false;
+l5 = false;
+l6 = false;
+
+x1 = false;
+if (h1) x1 = true; else skip;
+if (x1) l1 = true; else skip;
+
+x1 = false;
+if (h2) x1 = true; else skip;
+if (x1) l2 = true; else skip;
+
+x1 = false;
+if (h3) x1 = true; else skip;
+if (x1) l3 = true; else skip;
+
+x1 = false;
+if (h4) x1 = true; else skip;
+if (x1) l4 = true; else skip;
+
+x1 = false;
+if (h5) x1 = true; else skip;
+if (x1) l5 = true; else skip;
+
+x1 = false;
+if (h6) x1 = true; else skip;
+if (x1) l6 = true; else skip;

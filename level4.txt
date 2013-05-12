@@ -1,0 +1,9 @@
+Solution 1: 
+To find the value of h1-h6 use the following statement:
+
+if (h1) { skip; skip;  } else { skip;}
+
+If h1 is true it will take two steps, otherwise one. 
+
+Solution 2:
+Please see level4.py
