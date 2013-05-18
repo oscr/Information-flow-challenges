@@ -1,7 +1,7 @@
 """
 I would like to thank: http://stockrt.github.io/p/emulating-a-browser-in-python-with-mechanize/
 
-For mechanize setup code.
+For the mechanize setup code.
 """
 
 import mechanize
